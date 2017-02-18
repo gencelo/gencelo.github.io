@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hakkımda
-permalink: /about/
+permalink: /hakkımda/
 ---
 
 İTÜ elektrik mühendisliği son sınıf öğrencisi
