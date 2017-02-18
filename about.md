@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+İTÜ elektrik mühendisliği son sınıf öğrencisi
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Arduino, Android, LibGDX ve Spring ile ilgileniyor, ayrıca python ile veri analizi ve makine öğrenmesine de ilgisi var ama zamanı yok u aralar pek.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[genceloguzhan@gmail.com](mailto:genceloguzhan@gmail.com)
