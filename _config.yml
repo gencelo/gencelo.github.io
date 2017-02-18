@@ -6,7 +6,7 @@
 name: Oğuzhan Gençel
 
 # Short bio or description (displayed in the header)
-description: Arduino, Android falan filan
+description: Arduino, Android, Java falan filan
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
@@ -36,7 +36,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:UA-71304687-2
+google_analytics: UA-71304687-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
